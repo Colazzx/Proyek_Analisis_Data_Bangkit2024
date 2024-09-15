@@ -10,3 +10,8 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 ```
 streamlit run dashboard.py
 ```
+
+## Full Notebook File
+```
+https://colab.research.google.com/drive/1AwpeazZKMzJLCp-721Aj1VkxuA9LQtlG?usp=sharing
+```
